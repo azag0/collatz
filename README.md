@@ -2,7 +2,7 @@
 
 [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) visualization in Wolfram Mathematica.
 
-![visualisation](web.jpg)
+![visualisation](web.png)
 
 The generating code is fairly simple,
 
