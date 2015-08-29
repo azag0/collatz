@@ -1,5 +1,7 @@
 # collatz
-Collatz sequences visualization in Mathematica 10.1+
 
-Read more about it here:
-http://www.reddit.com/r/math/comments/38cg9r/a_beautiful_picture_related_to_collatz_conjecture/
+[Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) visualization in Wolfram Mathematica.
+
+![](web.jpg)
+
+Forked from [level1807/collatz](https://github.com/level1807/collatz).
